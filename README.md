@@ -112,8 +112,8 @@ The following steps are required to deploy the infrastructure from the command l
 1. In your shell, clone this repo and navigate to the root directory of this repository.
 
    ```bash
-   git clone https://github.com/Azure-Samples/openai-end-to-end-baseline
-   cd openai-end-to-end-baseline
+   git clone https://github.com/Azure-Samples/microsoft-foundry-baseline
+   cd microsoft-foundry-baseline
    ```
 
 1. Log in and select your target subscription.
@@ -395,3 +395,4 @@ Please see our [Contributor guide](./CONTRIBUTING.md).
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact <opencode@microsoft.com> with any additional questions or comments.
 
 With :heart: from Azure Patterns & Practices, [Azure Architecture Center](https://azure.com/architecture).
+
